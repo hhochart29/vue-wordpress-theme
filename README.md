@@ -18,6 +18,6 @@ npm run build
 
 into /wp-content/themes :
 ```
-git clone https://github.com/hhochart29/nenufart 
+git clone https://github.com/hhochart29/vue-wordpress-theme 
 npm run build to build assets
 ```
