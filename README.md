@@ -16,9 +16,8 @@ npm run build
 
 ```
 
-To use the theme :
-
+into /wp-content/themes :
 ```
-git clone this into /wp-content/themes
+git clone https://github.com/hhochart29/nenufart 
 npm run build to build assets
 ```
