@@ -2,7 +2,7 @@
 
 function registerScript()
 {
-    wp_enqueue_style('css-vue', get_template_directory_uri().'/assets/css/app.css');
+//    wp_enqueue_style('css-vue', get_template_directory_uri().'/assets/css/app.css');
     wp_deregister_script('jquery');
     wp_deregister_script('wp-embed');
     wp_enqueue_script('js-manifest', get_template_directory_uri().'/assets/js/manifest.js', array(), '1.0', true);
